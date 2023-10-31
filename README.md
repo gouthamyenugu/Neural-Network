@@ -1,1 +1,1 @@
-# Neutral-Network
+# Neural-Network
